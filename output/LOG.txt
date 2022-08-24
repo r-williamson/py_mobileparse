@@ -1,0 +1,1082 @@
+Key: 329184 Year: 2022 Improvements: $19,100
+Key: 329184 Year: 2021 Improvements: $19,100
+Key: 329184 Year: 2020 Improvements: $19,100
+Key: 329184 Year: 2019 Improvements: $20,100
+Key: 329184 Year: 2018 Improvements: $20,100
+Key: 329184 Year: 2017 Improvements: $21,200
+Key: 329184 Year: 2016 Improvements: $22,500
+Key: 329184 Year: 2015 Improvements: $21,100
+Key: 329184 Year: 2014 Improvements: $22,200
+Key: 329184 Year: 2013 Improvements: $23,300
+Key: 329184 Year: 2012 Improvements: $22,200
+Key: 329184 Year: 2011 Improvements: $23,300
+Key: 329184 Year: 2010 Improvements: $24,500
+Key: 329184 Year: 2009 Improvements: $26,400
+==================================================================
+Key: 920702 Year: 2022 Improvements: $11,200
+Key: 920702 Year: 2021 Improvements: $11,200
+Key: 920702 Year: 2020 Improvements: $11,200
+Key: 920702 Year: 2019 Improvements: $11,900
+Key: 920702 Year: 2018 Improvements: $12,600
+Key: 920702 Year: 2017 Improvements: $12,600
+Key: 920702 Year: 2016 Improvements: $13,200
+Key: 920702 Year: 2015 Improvements: $11,900
+Key: 920702 Year: 2014 Improvements: $12,400
+Key: 920702 Year: 2013 Improvements: $13,000
+Key: 920702 Year: 2012 Improvements: $13,600
+Key: 920702 Year: 2011 Improvements: $13,600
+Key: 920702 Year: 2010 Improvements: $14,400
+Key: 920702 Year: 2009 Improvements: $14,900
+==================================================================
+Key: 986277 Year: 2022 Improvements: $22,800
+Key: 986277 Year: 2021 Improvements: $22,800
+Key: 986277 Year: 2020 Improvements: $22,800
+Key: 986277 Year: 2019 Improvements: $25,900
+Key: 986277 Year: 2018 Improvements: $19,100
+Key: 986277 Year: 2017 Improvements: $22,000
+Key: 986277 Year: 2016 Improvements: $28,600
+Key: 986277 Year: 2015 Improvements: $25,600
+Key: 986277 Year: 2014 Improvements: $26,400
+Key: 986277 Year: 2013 Improvements: $27,200
+Key: 986277 Year: 2012 Improvements: $28,000
+Key: 986277 Year: 2011 Improvements: $26,100
+Key: 986277 Year: 2010 Improvements: $26,200
+Key: 986277 Year: 2009 Improvements: $15,300
+==================================================================
+Key: 925823 Year: 2022 Improvements: $77,600
+Key: 925823 Year: 2021 Improvements: $77,600
+Key: 925823 Year: 2020 Improvements: $77,600
+Key: 925823 Year: 2019 Improvements: $79,900
+Key: 925823 Year: 2018 Improvements: $84,400
+Key: 925823 Year: 2017 Improvements: $84,400
+Key: 925823 Year: 2016 Improvements: $84,700
+Key: 925823 Year: 2015 Improvements: $67,000
+Key: 925823 Year: 2014 Improvements: $69,200
+Key: 925823 Year: 2013 Improvements: $71,400
+Key: 925823 Year: 2012 Improvements: $77,300
+Key: 925823 Year: 2011 Improvements: $78,400
+Key: 925823 Year: 2010 Improvements: $81,000
+Key: 925823 Year: 2009 Improvements: $83,500
+==================================================================
+Key: 637225 Year: 2013 Improvements: $10,100
+Key: 637225 Year: 2012 Improvements: $10,700
+Key: 637225 Year: 2009 Improvements: $10,600
+==================================================================
+Key: 637234 Year: 2013 Improvements: $10,100
+Key: 637234 Year: 2012 Improvements: $10,700
+Key: 637234 Year: 2011 Improvements: $12,700
+Key: 637234 Year: 2010 Improvements: $13,500
+Key: 637234 Year: 2009 Improvements: $14,600
+==================================================================
+Key: 371724 Year: 2022 Improvements: $22,700
+Key: 371724 Year: 2021 Improvements: $22,000
+Key: 371724 Year: 2020 Improvements: $20,500
+Key: 371724 Year: 2019 Improvements: $19,200
+Key: 371724 Year: 2018 Improvements: $19,200
+Key: 371724 Year: 2017 Improvements: $20,200
+Key: 371724 Year: 2016 Improvements: $20,200
+Key: 371724 Year: 2015 Improvements: $46,500
+Key: 371724 Year: 2014 Improvements: $48,800
+Key: 371724 Year: 2013 Improvements: $51,100
+Key: 371724 Year: 2012 Improvements: $53,300
+Key: 371724 Year: 2011 Improvements: $55,200
+Key: 371724 Year: 2010 Improvements: $56,600
+Key: 371724 Year: 2009 Improvements: $58,400
+==================================================================
+Key: 912837 Year: 2022 Improvements: $26,900
+Key: 912837 Year: 2021 Improvements: $26,900
+Key: 912837 Year: 2020 Improvements: $26,900
+Key: 912837 Year: 2019 Improvements: $27,300
+Key: 912837 Year: 2018 Improvements: $27,300
+Key: 912837 Year: 2017 Improvements: $27,300
+Key: 912837 Year: 2016 Improvements: $28,400
+Key: 912837 Year: 2015 Improvements: $31,000
+Key: 912837 Year: 2014 Improvements: $32,200
+Key: 912837 Year: 2013 Improvements: $33,900
+Key: 912837 Year: 2012 Improvements: $35,000
+Key: 912837 Year: 2011 Improvements: $36,100
+Key: 912837 Year: 2010 Improvements: $37,300
+Key: 912837 Year: 2009 Improvements: $38,600
+==================================================================
+Key: 2783535 Year: 2022 Improvements: $29,000
+Key: 2783535 Year: 2021 Improvements: $29,000
+Key: 2783535 Year: 2020 Improvements: $29,000
+Key: 2783535 Year: 2019 Improvements: $20,000
+Key: 2783535 Year: 2018 Improvements: $20,000
+Key: 2783535 Year: 2017 Improvements: $20,000
+Key: 2783535 Year: 2016 Improvements: $27,300
+Key: 2783535 Year: 2015 Improvements: $24,100
+Key: 2783535 Year: 2014 Improvements: $32,700
+Key: 2783535 Year: 2013 Improvements: $32,700
+Key: 2783535 Year: 2012 Improvements: $32,700
+Key: 2783535 Year: 2011 Improvements: $27,600
+Key: 2783535 Year: 2010 Improvements: $29,500
+Key: 2783535 Year: 2009 Improvements: $36,400
+==================================================================
+Key: 1005655 Year: 2022 Improvements: $33,900
+Key: 1005655 Year: 2021 Improvements: $33,900
+Key: 1005655 Year: 2020 Improvements: $33,900
+Key: 1005655 Year: 2019 Improvements: $37,700
+Key: 1005655 Year: 2018 Improvements: $32,600
+Key: 1005655 Year: 2017 Improvements: $32,600
+Key: 1005655 Year: 2016 Improvements: $34,100
+Key: 1005655 Year: 2015 Improvements: $26,900
+Key: 1005655 Year: 2014 Improvements: $28,100
+Key: 1005655 Year: 2013 Improvements: $34,100
+Key: 1005655 Year: 2012 Improvements: $36,200
+Key: 1005655 Year: 2011 Improvements: $37,600
+Key: 1005655 Year: 2010 Improvements: $39,200
+Key: 1005655 Year: 2009 Improvements: $40,400
+==================================================================
+Key: 2423014 Year: 2022 Improvements: $21,200
+Key: 2423014 Year: 2021 Improvements: $23,600
+Key: 2423014 Year: 2020 Improvements: $23,600
+Key: 2423014 Year: 2019 Improvements: $15,900
+Key: 2423014 Year: 2018 Improvements: $15,900
+Key: 2423014 Year: 2017 Improvements: $12,500
+Key: 2423014 Year: 2016 Improvements: $17,600
+Key: 2423014 Year: 2015 Improvements: $15,500
+Key: 2423014 Year: 2014 Improvements: $15,500
+Key: 2423014 Year: 2013 Improvements: $15,500
+Key: 2423014 Year: 2012 Improvements: $15,500
+Key: 2423014 Year: 2011 Improvements: $15,500
+Key: 2423014 Year: 2010 Improvements: $14,200
+Key: 2423014 Year: 2009 Improvements: $14,200
+==================================================================
+==================================================================
+Key: 1959884 Year: 2016 Improvements: $13,900
+Key: 1959884 Year: 2015 Improvements: $12,200
+Key: 1959884 Year: 2014 Improvements: $12,200
+Key: 1959884 Year: 2013 Improvements: $12,200
+Key: 1959884 Year: 2012 Improvements: $12,200
+Key: 1959884 Year: 2011 Improvements: $12,200
+==================================================================
+Key: 925716 Year: 2022 Improvements: $56,700
+Key: 925716 Year: 2021 Improvements: $56,700
+Key: 925716 Year: 2020 Improvements: $56,700
+Key: 925716 Year: 2019 Improvements: $55,600
+Key: 925716 Year: 2018 Improvements: $55,600
+Key: 925716 Year: 2017 Improvements: $55,600
+Key: 925716 Year: 2016 Improvements: $57,200
+Key: 925716 Year: 2015 Improvements: $45,200
+Key: 925716 Year: 2014 Improvements: $46,600
+Key: 925716 Year: 2013 Improvements: $48,100
+Key: 925716 Year: 2012 Improvements: $52,000
+Key: 925716 Year: 2011 Improvements: $52,500
+Key: 925716 Year: 2010 Improvements: $53,900
+Key: 925716 Year: 2009 Improvements: $55,600
+==================================================================
+Key: 1809662 Year: 2022 Improvements: $45,200
+Key: 1809662 Year: 2021 Improvements: $35,200
+Key: 1809662 Year: 2020 Improvements: $35,200
+Key: 1809662 Year: 2019 Improvements: $32,900
+Key: 1809662 Year: 2018 Improvements: $32,900
+Key: 1809662 Year: 2017 Improvements: $32,900
+Key: 1809662 Year: 2016 Improvements: $34,500
+Key: 1809662 Year: 2015 Improvements: $31,300
+Key: 1809662 Year: 2014 Improvements: $32,700
+Key: 1809662 Year: 2013 Improvements: $34,100
+Key: 1809662 Year: 2012 Improvements: $36,200
+Key: 1809662 Year: 2011 Improvements: $37,700
+Key: 1809662 Year: 2010 Improvements: $39,100
+Key: 1809662 Year: 2009 Improvements: $40,300
+==================================================================
+Key: 2947244 Year: 2019 Improvements: $142,700
+Key: 2947244 Year: 2018 Improvements: $144,400
+Key: 2947244 Year: 2017 Improvements: $149,400
+Key: 2947244 Year: 2016 Improvements: $151,100
+Key: 2947244 Year: 2015 Improvements: $132,000
+Key: 2947244 Year: 2014 Improvements: $139,700
+Key: 2947244 Year: 2013 Improvements: $142,600
+Key: 2947244 Year: 2012 Improvements: $144,100
+Key: 2947244 Year: 2011 Improvements: $145,600
+Key: 2947244 Year: 2010 Improvements: $150,800
+Key: 2947244 Year: 2009 Improvements: $155,400
+==================================================================
+Key: 2490174 Year: 2022 Improvements: $10,800
+Key: 2490174 Year: 2021 Improvements: $10,800
+Key: 2490174 Year: 2020 Improvements: $28,200
+Key: 2490174 Year: 2019 Improvements: $19,500
+Key: 2490174 Year: 2018 Improvements: $19,500
+Key: 2490174 Year: 2017 Improvements: $19,500
+Key: 2490174 Year: 2016 Improvements: $27,000
+Key: 2490174 Year: 2015 Improvements: $23,800
+Key: 2490174 Year: 2014 Improvements: $23,800
+Key: 2490174 Year: 2013 Improvements: $23,800
+Key: 2490174 Year: 2012 Improvements: $23,800
+Key: 2490174 Year: 2011 Improvements: $23,800
+Key: 2490174 Year: 2010 Improvements: $21,700
+Key: 2490174 Year: 2009 Improvements: $21,900
+==================================================================
+==================================================================
+Key: 323420 Year: 2022 Improvements: $10,500
+Key: 323420 Year: 2021 Improvements: $10,500
+Key: 323420 Year: 2020 Improvements: $10,500
+Key: 323420 Year: 2017 Improvements: $21,300
+Key: 323420 Year: 2016 Improvements: $22,000
+Key: 323420 Year: 2015 Improvements: $20,000
+Key: 323420 Year: 2014 Improvements: $18,300
+Key: 323420 Year: 2013 Improvements: $19,200
+Key: 323420 Year: 2012 Improvements: $20,300
+Key: 323420 Year: 2011 Improvements: $19,100
+Key: 323420 Year: 2010 Improvements: $20,100
+Key: 323420 Year: 2009 Improvements: $20,700
+==================================================================
+Key: 202499 Year: 2021 Improvements: $12,200
+Key: 202499 Year: 2020 Improvements: $12,200
+Key: 202499 Year: 2012 Improvements: $10,100
+Key: 202499 Year: 2011 Improvements: $10,400
+Key: 202499 Year: 2010 Improvements: $11,000
+Key: 202499 Year: 2009 Improvements: $12,000
+==================================================================
+Key: 967966 Year: 2022 Improvements: $12,500
+Key: 967966 Year: 2021 Improvements: $27,500
+Key: 967966 Year: 2020 Improvements: $21,800
+Key: 967966 Year: 2019 Improvements: $19,900
+Key: 967966 Year: 2018 Improvements: $19,900
+Key: 967966 Year: 2017 Improvements: $19,900
+Key: 967966 Year: 2016 Improvements: $20,800
+Key: 967966 Year: 2015 Improvements: $18,800
+Key: 967966 Year: 2014 Improvements: $19,600
+Key: 967966 Year: 2013 Improvements: $20,400
+Key: 967966 Year: 2012 Improvements: $21,600
+Key: 967966 Year: 2011 Improvements: $24,000
+Key: 967966 Year: 2010 Improvements: $24,900
+Key: 967966 Year: 2009 Improvements: $25,700
+==================================================================
+Key: 295451 Year: 2022 Improvements: $10,500
+Key: 295451 Year: 2021 Improvements: $11,600
+Key: 295451 Year: 2020 Improvements: $11,800
+Key: 295451 Year: 2019 Improvements: $10,200
+Key: 295451 Year: 2018 Improvements: $10,200
+Key: 295451 Year: 2016 Improvements: $10,200
+Key: 295451 Year: 2013 Improvements: $10,800
+Key: 295451 Year: 2012 Improvements: $11,400
+Key: 295451 Year: 2011 Improvements: $11,900
+Key: 295451 Year: 2010 Improvements: $14,000
+Key: 295451 Year: 2009 Improvements: $14,500
+==================================================================
+Key: 295451 Year: 2022 Improvements: $10,500
+Key: 295451 Year: 2021 Improvements: $11,600
+Key: 295451 Year: 2020 Improvements: $11,800
+Key: 295451 Year: 2019 Improvements: $10,200
+Key: 295451 Year: 2018 Improvements: $10,200
+Key: 295451 Year: 2016 Improvements: $10,200
+Key: 295451 Year: 2013 Improvements: $10,800
+Key: 295451 Year: 2012 Improvements: $11,400
+Key: 295451 Year: 2011 Improvements: $11,900
+Key: 295451 Year: 2010 Improvements: $14,000
+Key: 295451 Year: 2009 Improvements: $14,500
+==================================================================
+Key: 766406 Year: 2010 Improvements: $10,200
+Key: 766406 Year: 2009 Improvements: $11,400
+==================================================================
+Key: 2564790 Year: 2022 Improvements: $16,100
+Key: 2564790 Year: 2016 Improvements: $10,800
+==================================================================
+Key: 830925 Year: 2022 Improvements: $26,200
+Key: 830925 Year: 2021 Improvements: $26,200
+Key: 830925 Year: 2020 Improvements: $26,200
+Key: 830925 Year: 2019 Improvements: $26,200
+Key: 830925 Year: 2018 Improvements: $26,200
+Key: 830925 Year: 2017 Improvements: $26,200
+Key: 830925 Year: 2016 Improvements: $27,300
+Key: 830925 Year: 2015 Improvements: $23,600
+Key: 830925 Year: 2014 Improvements: $24,500
+Key: 830925 Year: 2013 Improvements: $26,000
+Key: 830925 Year: 2012 Improvements: $26,900
+Key: 830925 Year: 2011 Improvements: $38,100
+Key: 830925 Year: 2010 Improvements: $39,600
+Key: 830925 Year: 2009 Improvements: $40,900
+==================================================================
+==================================================================
+Key: 705641 Year: 2022 Improvements: $21,700
+Key: 705641 Year: 2021 Improvements: $21,700
+Key: 705641 Year: 2020 Improvements: $21,700
+Key: 705641 Year: 2019 Improvements: $22,000
+Key: 705641 Year: 2018 Improvements: $22,000
+Key: 705641 Year: 2017 Improvements: $22,000
+Key: 705641 Year: 2016 Improvements: $23,400
+Key: 705641 Year: 2015 Improvements: $27,400
+Key: 705641 Year: 2014 Improvements: $28,600
+Key: 705641 Year: 2013 Improvements: $29,800
+Key: 705641 Year: 2012 Improvements: $31,000
+Key: 705641 Year: 2011 Improvements: $34,700
+Key: 705641 Year: 2010 Improvements: $36,100
+Key: 705641 Year: 2009 Improvements: $37,200
+==================================================================
+Key: 860483 Year: 2021 Improvements: $36,500
+Key: 860483 Year: 2020 Improvements: $36,500
+Key: 860483 Year: 2019 Improvements: $36,600
+Key: 860483 Year: 2018 Improvements: $36,600
+Key: 860483 Year: 2017 Improvements: $36,600
+Key: 860483 Year: 2016 Improvements: $44,700
+Key: 860483 Year: 2015 Improvements: $48,000
+Key: 860483 Year: 2014 Improvements: $50,500
+Key: 860483 Year: 2013 Improvements: $52,200
+Key: 860483 Year: 2012 Improvements: $53,900
+Key: 860483 Year: 2011 Improvements: $52,200
+Key: 860483 Year: 2010 Improvements: $54,100
+Key: 860483 Year: 2009 Improvements: $55,800
+==================================================================
+Key: 98165 Year: 2022 Improvements: $16,300
+Key: 98165 Year: 2021 Improvements: $28,200
+Key: 98165 Year: 2020 Improvements: $28,200
+Key: 98165 Year: 2019 Improvements: $24,100
+Key: 98165 Year: 2018 Improvements: $24,100
+Key: 98165 Year: 2017 Improvements: $24,100
+Key: 98165 Year: 2016 Improvements: $24,100
+Key: 98165 Year: 2015 Improvements: $20,800
+Key: 98165 Year: 2014 Improvements: $20,800
+Key: 98165 Year: 2013 Improvements: $20,800
+Key: 98165 Year: 2012 Improvements: $20,800
+Key: 98165 Year: 2011 Improvements: $20,800
+Key: 98165 Year: 2010 Improvements: $22,100
+Key: 98165 Year: 2009 Improvements: $22,700
+==================================================================
+Key: 200614 Year: 2022 Improvements: $13,300
+Key: 200614 Year: 2021 Improvements: $13,300
+Key: 200614 Year: 2020 Improvements: $13,300
+Key: 200614 Year: 2019 Improvements: $10,300
+Key: 200614 Year: 2018 Improvements: $10,300
+Key: 200614 Year: 2017 Improvements: $10,300
+Key: 200614 Year: 2016 Improvements: $10,800
+Key: 200614 Year: 2015 Improvements: $10,100
+Key: 200614 Year: 2014 Improvements: $10,400
+Key: 200614 Year: 2013 Improvements: $11,200
+Key: 200614 Year: 2012 Improvements: $11,500
+Key: 200614 Year: 2011 Improvements: $12,300
+Key: 200614 Year: 2010 Improvements: $13,100
+Key: 200614 Year: 2009 Improvements: $14,600
+==================================================================
+Key: 765933 Year: 2011 Improvements: $17,600
+Key: 765933 Year: 2010 Improvements: $18,500
+Key: 765933 Year: 2009 Improvements: $20,000
+==================================================================
+Key: 977919 Year: 2019 Improvements: $13,100
+Key: 977919 Year: 2018 Improvements: $13,100
+Key: 977919 Year: 2017 Improvements: $13,100
+Key: 977919 Year: 2016 Improvements: $13,100
+Key: 977919 Year: 2015 Improvements: $11,300
+Key: 977919 Year: 2014 Improvements: $13,600
+Key: 977919 Year: 2013 Improvements: $13,900
+Key: 977919 Year: 2012 Improvements: $13,900
+Key: 977919 Year: 2011 Improvements: $35,500
+Key: 977919 Year: 2010 Improvements: $37,800
+Key: 977919 Year: 2009 Improvements: $39,000
+==================================================================
+==================================================================
+Key: 2533299 Year: 2022 Improvements: $15,000
+Key: 2533299 Year: 2021 Improvements: $18,700
+Key: 2533299 Year: 2020 Improvements: $18,700
+Key: 2533299 Year: 2019 Improvements: $14,100
+Key: 2533299 Year: 2018 Improvements: $14,100
+Key: 2533299 Year: 2017 Improvements: $14,100
+Key: 2533299 Year: 2016 Improvements: $14,700
+Key: 2533299 Year: 2015 Improvements: $17,300
+Key: 2533299 Year: 2014 Improvements: $18,000
+Key: 2533299 Year: 2013 Improvements: $18,700
+Key: 2533299 Year: 2012 Improvements: $19,300
+Key: 2533299 Year: 2011 Improvements: $20,400
+Key: 2533299 Year: 2010 Improvements: $21,100
+Key: 2533299 Year: 2009 Improvements: $21,800
+==================================================================
+==================================================================
+Key: 629635 Year: 2011 Improvements: $12,600
+Key: 629635 Year: 2010 Improvements: $13,100
+Key: 629635 Year: 2009 Improvements: $14,200
+==================================================================
+Key: 120461 Year: 2022 Improvements: $12,600
+Key: 120461 Year: 2021 Improvements: $14,400
+Key: 120461 Year: 2020 Improvements: $14,400
+Key: 120461 Year: 2019 Improvements: $10,400
+Key: 120461 Year: 2018 Improvements: $10,400
+Key: 120461 Year: 2017 Improvements: $10,400
+Key: 120461 Year: 2016 Improvements: $13,800
+Key: 120461 Year: 2015 Improvements: $12,200
+Key: 120461 Year: 2014 Improvements: $13,900
+Key: 120461 Year: 2013 Improvements: $13,900
+Key: 120461 Year: 2012 Improvements: $13,900
+Key: 120461 Year: 2011 Improvements: $13,900
+Key: 120461 Year: 2010 Improvements: $14,500
+Key: 120461 Year: 2009 Improvements: $14,600
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+Key: 205619 Year: 2022 Improvements: $19,900
+Key: 205619 Year: 2021 Improvements: $19,600
+Key: 205619 Year: 2020 Improvements: $18,100
+Key: 205619 Year: 2019 Improvements: $19,200
+Key: 205619 Year: 2018 Improvements: $19,200
+Key: 205619 Year: 2017 Improvements: $19,200
+Key: 205619 Year: 2016 Improvements: $20,100
+Key: 205619 Year: 2015 Improvements: $18,200
+Key: 205619 Year: 2014 Improvements: $16,200
+Key: 205619 Year: 2013 Improvements: $17,600
+Key: 205619 Year: 2012 Improvements: $18,500
+Key: 205619 Year: 2011 Improvements: $19,500
+Key: 205619 Year: 2010 Improvements: $19,800
+Key: 205619 Year: 2009 Improvements: $21,400
+==================================================================
+==================================================================
+Key: 1578260 Year: 2022 Improvements: $18,900
+Key: 1578260 Year: 2021 Improvements: $18,900
+Key: 1578260 Year: 2020 Improvements: $18,900
+Key: 1578260 Year: 2019 Improvements: $17,900
+Key: 1578260 Year: 2018 Improvements: $17,900
+Key: 1578260 Year: 2017 Improvements: $17,900
+Key: 1578260 Year: 2016 Improvements: $19,000
+Key: 1578260 Year: 2015 Improvements: $17,800
+Key: 1578260 Year: 2014 Improvements: $18,800
+Key: 1578260 Year: 2013 Improvements: $19,700
+Key: 1578260 Year: 2012 Improvements: $20,700
+Key: 1578260 Year: 2011 Improvements: $29,900
+Key: 1578260 Year: 2010 Improvements: $30,900
+Key: 1578260 Year: 2009 Improvements: $31,900
+==================================================================
+Key: 1577109 Year: 2022 Improvements: $16,700
+Key: 1577109 Year: 2021 Improvements: $18,400
+Key: 1577109 Year: 2020 Improvements: $18,400
+Key: 1577109 Year: 2019 Improvements: $12,600
+Key: 1577109 Year: 2018 Improvements: $12,600
+Key: 1577109 Year: 2017 Improvements: $12,600
+Key: 1577109 Year: 2016 Improvements: $13,400
+Key: 1577109 Year: 2015 Improvements: $12,600
+Key: 1577109 Year: 2014 Improvements: $13,200
+Key: 1577109 Year: 2013 Improvements: $13,900
+Key: 1577109 Year: 2012 Improvements: $14,600
+Key: 1577109 Year: 2011 Improvements: $21,800
+Key: 1577109 Year: 2010 Improvements: $22,700
+Key: 1577109 Year: 2009 Improvements: $23,400
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+Key: 628002 Year: 2022 Improvements: $20,000
+Key: 628002 Year: 2021 Improvements: $20,000
+Key: 628002 Year: 2020 Improvements: $21,100
+Key: 628002 Year: 2019 Improvements: $26,800
+Key: 628002 Year: 2018 Improvements: $26,800
+Key: 628002 Year: 2017 Improvements: $26,800
+Key: 628002 Year: 2016 Improvements: $28,300
+Key: 628002 Year: 2015 Improvements: $29,200
+Key: 628002 Year: 2014 Improvements: $30,700
+Key: 628002 Year: 2013 Improvements: $32,500
+Key: 628002 Year: 2012 Improvements: $34,100
+Key: 628002 Year: 2011 Improvements: $40,600
+Key: 628002 Year: 2010 Improvements: $42,100
+Key: 628002 Year: 2009 Improvements: $44,400
+==================================================================
+==================================================================
+Key: 89950 Year: 2022 Improvements: $34,000
+Key: 89950 Year: 2021 Improvements: $34,500
+Key: 89950 Year: 2020 Improvements: $34,500
+Key: 89950 Year: 2019 Improvements: $33,600
+Key: 89950 Year: 2018 Improvements: $33,600
+Key: 89950 Year: 2017 Improvements: $33,600
+Key: 89950 Year: 2016 Improvements: $34,800
+Key: 89950 Year: 2015 Improvements: $31,000
+Key: 89950 Year: 2014 Improvements: $32,000
+Key: 89950 Year: 2013 Improvements: $33,000
+Key: 89950 Year: 2012 Improvements: $34,000
+Key: 89950 Year: 2011 Improvements: $35,000
+Key: 89950 Year: 2010 Improvements: $35,700
+Key: 89950 Year: 2009 Improvements: $36,800
+==================================================================
+==================================================================
+Key: 874940 Year: 2022 Improvements: $10,200
+Key: 874940 Year: 2016 Improvements: $11,500
+Key: 874940 Year: 2015 Improvements: $10,400
+Key: 874940 Year: 2014 Improvements: $11,900
+Key: 874940 Year: 2013 Improvements: $10,700
+Key: 874940 Year: 2012 Improvements: $11,100
+Key: 874940 Year: 2011 Improvements: $11,700
+Key: 874940 Year: 2010 Improvements: $17,300
+Key: 874940 Year: 2009 Improvements: $19,100
+==================================================================
+Key: 963924 Year: 2020 Improvements: $10,300
+Key: 963924 Year: 2019 Improvements: $10,800
+Key: 963924 Year: 2018 Improvements: $10,800
+Key: 963924 Year: 2017 Improvements: $10,800
+Key: 963924 Year: 2016 Improvements: $11,200
+Key: 963924 Year: 2015 Improvements: $10,400
+Key: 963924 Year: 2014 Improvements: $10,700
+Key: 963924 Year: 2013 Improvements: $11,300
+Key: 963924 Year: 2012 Improvements: $12,100
+Key: 963924 Year: 2011 Improvements: $14,900
+Key: 963924 Year: 2010 Improvements: $15,500
+Key: 963924 Year: 2009 Improvements: $15,900
+==================================================================
+Key: 1457177 Year: 2022 Improvements: $27,100
+Key: 1457177 Year: 2021 Improvements: $27,800
+Key: 1457177 Year: 2020 Improvements: $28,300
+Key: 1457177 Year: 2019 Improvements: $28,600
+Key: 1457177 Year: 2018 Improvements: $28,600
+Key: 1457177 Year: 2017 Improvements: $28,600
+Key: 1457177 Year: 2016 Improvements: $28,800
+Key: 1457177 Year: 2015 Improvements: $25,500
+Key: 1457177 Year: 2014 Improvements: $18,800
+Key: 1457177 Year: 2013 Improvements: $19,400
+Key: 1457177 Year: 2012 Improvements: $20,100
+Key: 1457177 Year: 2011 Improvements: $20,200
+==================================================================
+Key: 837704 Year: 2022 Improvements: $16,700
+Key: 837704 Year: 2021 Improvements: $16,700
+Key: 837704 Year: 2020 Improvements: $14,200
+Key: 837704 Year: 2019 Improvements: $12,400
+Key: 837704 Year: 2017 Improvements: $11,200
+Key: 837704 Year: 2016 Improvements: $18,100
+Key: 837704 Year: 2015 Improvements: $17,300
+Key: 837704 Year: 2014 Improvements: $18,100
+Key: 837704 Year: 2013 Improvements: $19,000
+Key: 837704 Year: 2012 Improvements: $19,800
+Key: 837704 Year: 2011 Improvements: $21,000
+Key: 837704 Year: 2010 Improvements: $21,900
+Key: 837704 Year: 2009 Improvements: $22,600
+==================================================================
+==================================================================
+Key: 89638 Year: 2022 Improvements: $12,200
+Key: 89638 Year: 2021 Improvements: $10,400
+Key: 89638 Year: 2020 Improvements: $12,200
+==================================================================
+==================================================================
+==================================================================
+Key: 932708 Year: 2020 Improvements: $11,100
+Key: 932708 Year: 2016 Improvements: $10,300
+Key: 932708 Year: 2011 Improvements: $10,400
+Key: 932708 Year: 2010 Improvements: $11,100
+Key: 932708 Year: 2009 Improvements: $12,100
+==================================================================
+Key: 1042981 Year: 2022 Improvements: $27,400
+Key: 1042981 Year: 2021 Improvements: $27,400
+Key: 1042981 Year: 2020 Improvements: $27,400
+Key: 1042981 Year: 2019 Improvements: $27,000
+Key: 1042981 Year: 2018 Improvements: $27,200
+Key: 1042981 Year: 2017 Improvements: $27,200
+Key: 1042981 Year: 2016 Improvements: $28,300
+Key: 1042981 Year: 2015 Improvements: $31,400
+Key: 1042981 Year: 2014 Improvements: $32,300
+Key: 1042981 Year: 2013 Improvements: $33,300
+Key: 1042981 Year: 2012 Improvements: $34,200
+Key: 1042981 Year: 2011 Improvements: $34,600
+Key: 1042981 Year: 2010 Improvements: $35,800
+Key: 1042981 Year: 2009 Improvements: $36,900
+==================================================================
+Key: 866192 Year: 2018 Improvements: $14,600
+Key: 866192 Year: 2017 Improvements: $15,600
+Key: 866192 Year: 2016 Improvements: $20,300
+Key: 866192 Year: 2015 Improvements: $18,300
+Key: 866192 Year: 2014 Improvements: $22,800
+Key: 866192 Year: 2013 Improvements: $23,600
+Key: 866192 Year: 2012 Improvements: $25,300
+Key: 866192 Year: 2011 Improvements: $26,100
+Key: 866192 Year: 2010 Improvements: $27,800
+Key: 866192 Year: 2009 Improvements: $30,400
+==================================================================
+Key: 866192 Year: 2018 Improvements: $14,600
+Key: 866192 Year: 2017 Improvements: $15,600
+Key: 866192 Year: 2016 Improvements: $20,300
+Key: 866192 Year: 2015 Improvements: $18,300
+Key: 866192 Year: 2014 Improvements: $22,800
+Key: 866192 Year: 2013 Improvements: $23,600
+Key: 866192 Year: 2012 Improvements: $25,300
+Key: 866192 Year: 2011 Improvements: $26,100
+Key: 866192 Year: 2010 Improvements: $27,800
+Key: 866192 Year: 2009 Improvements: $30,400
+==================================================================
+==================================================================
+Key: 43223 Year: 2017 Improvements: $28,700
+Key: 43223 Year: 2016 Improvements: $29,500
+Key: 43223 Year: 2015 Improvements: $26,300
+Key: 43223 Year: 2014 Improvements: $25,500
+Key: 43223 Year: 2013 Improvements: $26,300
+Key: 43223 Year: 2012 Improvements: $27,000
+Key: 43223 Year: 2011 Improvements: $27,800
+Key: 43223 Year: 2010 Improvements: $27,600
+Key: 43223 Year: 2009 Improvements: $28,500
+==================================================================
+Key: 325767 Year: 2022 Improvements: $25,700
+Key: 325767 Year: 2021 Improvements: $25,700
+Key: 325767 Year: 2020 Improvements: $26,300
+Key: 325767 Year: 2019 Improvements: $26,100
+Key: 325767 Year: 2018 Improvements: $26,100
+Key: 325767 Year: 2017 Improvements: $26,300
+Key: 325767 Year: 2016 Improvements: $27,400
+Key: 325767 Year: 2015 Improvements: $25,200
+Key: 325767 Year: 2014 Improvements: $26,200
+Key: 325767 Year: 2013 Improvements: $27,200
+Key: 325767 Year: 2012 Improvements: $25,700
+Key: 325767 Year: 2011 Improvements: $26,700
+Key: 325767 Year: 2010 Improvements: $27,800
+Key: 325767 Year: 2009 Improvements: $28,600
+==================================================================
+Key: 319051 Year: 2022 Improvements: $19,100
+Key: 319051 Year: 2021 Improvements: $11,200
+Key: 319051 Year: 2020 Improvements: $13,700
+Key: 319051 Year: 2019 Improvements: $13,000
+Key: 319051 Year: 2018 Improvements: $13,000
+Key: 319051 Year: 2017 Improvements: $13,600
+Key: 319051 Year: 2016 Improvements: $14,800
+Key: 319051 Year: 2015 Improvements: $13,900
+Key: 319051 Year: 2014 Improvements: $14,900
+Key: 319051 Year: 2013 Improvements: $16,000
+Key: 319051 Year: 2012 Improvements: $13,300
+Key: 319051 Year: 2011 Improvements: $14,300
+Key: 319051 Year: 2010 Improvements: $15,200
+Key: 319051 Year: 2009 Improvements: $15,700
+==================================================================
+Key: 230716 Year: 2022 Improvements: $26,500
+Key: 230716 Year: 2021 Improvements: $26,100
+Key: 230716 Year: 2020 Improvements: $27,900
+Key: 230716 Year: 2019 Improvements: $27,800
+Key: 230716 Year: 2018 Improvements: $27,800
+Key: 230716 Year: 2017 Improvements: $27,800
+Key: 230716 Year: 2016 Improvements: $29,000
+Key: 230716 Year: 2015 Improvements: $26,200
+Key: 230716 Year: 2014 Improvements: $27,800
+Key: 230716 Year: 2013 Improvements: $28,900
+Key: 230716 Year: 2012 Improvements: $30,000
+Key: 230716 Year: 2011 Improvements: $31,100
+Key: 230716 Year: 2010 Improvements: $33,700
+Key: 230716 Year: 2009 Improvements: $34,800
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+Key: 1486911 Year: 2014 Improvements: $10,200
+Key: 1486911 Year: 2013 Improvements: $10,200
+Key: 1486911 Year: 2012 Improvements: $10,200
+Key: 1486911 Year: 2011 Improvements: $10,200
+Key: 1486911 Year: 2010 Improvements: $17,800
+Key: 1486911 Year: 2009 Improvements: $18,200
+==================================================================
+Key: 767922 Year: 2011 Improvements: $15,800
+Key: 767922 Year: 2010 Improvements: $16,900
+Key: 767922 Year: 2009 Improvements: $17,400
+==================================================================
+==================================================================
+==================================================================
+Key: 288842 Year: 2022 Improvements: $23,500
+Key: 288842 Year: 2021 Improvements: $26,100
+Key: 288842 Year: 2020 Improvements: $26,100
+Key: 288842 Year: 2019 Improvements: $22,300
+Key: 288842 Year: 2018 Improvements: $22,300
+Key: 288842 Year: 2017 Improvements: $21,500
+Key: 288842 Year: 2016 Improvements: $22,400
+Key: 288842 Year: 2015 Improvements: $20,600
+Key: 288842 Year: 2014 Improvements: $17,700
+Key: 288842 Year: 2013 Improvements: $18,600
+Key: 288842 Year: 2012 Improvements: $19,400
+Key: 288842 Year: 2011 Improvements: $20,600
+Key: 288842 Year: 2010 Improvements: $24,900
+Key: 288842 Year: 2009 Improvements: $25,600
+==================================================================
+Key: 287601 Year: 2022 Improvements: $33,600
+Key: 287601 Year: 2021 Improvements: $37,300
+Key: 287601 Year: 2020 Improvements: $37,300
+Key: 287601 Year: 2019 Improvements: $31,900
+Key: 287601 Year: 2018 Improvements: $31,900
+Key: 287601 Year: 2017 Improvements: $30,700
+Key: 287601 Year: 2016 Improvements: $32,700
+Key: 287601 Year: 2015 Improvements: $30,000
+Key: 287601 Year: 2014 Improvements: $32,600
+Key: 287601 Year: 2013 Improvements: $34,300
+Key: 287601 Year: 2012 Improvements: $36,000
+Key: 287601 Year: 2011 Improvements: $37,700
+Key: 287601 Year: 2010 Improvements: $53,100
+Key: 287601 Year: 2009 Improvements: $54,700
+==================================================================
+Key: 2974641 Year: 2022 Improvements: $13,700
+Key: 2974641 Year: 2021 Improvements: $13,700
+Key: 2974641 Year: 2020 Improvements: $14,600
+Key: 2974641 Year: 2019 Improvements: $11,300
+==================================================================
+==================================================================
+Key: 217161 Year: 2011 Improvements: $10,700
+==================================================================
+Key: 202202 Year: 2022 Improvements: $11,700
+Key: 202202 Year: 2021 Improvements: $11,700
+Key: 202202 Year: 2020 Improvements: $11,700
+Key: 202202 Year: 2010 Improvements: $11,300
+Key: 202202 Year: 2009 Improvements: $12,700
+==================================================================
+Key: 202220 Year: 2022 Improvements: $14,000
+Key: 202220 Year: 2021 Improvements: $14,000
+Key: 202220 Year: 2020 Improvements: $14,000
+Key: 202220 Year: 2010 Improvements: $12,700
+Key: 202220 Year: 2009 Improvements: $13,900
+==================================================================
+Key: 396967 Year: 2020 Improvements: $24,300
+Key: 396967 Year: 2019 Improvements: $20,400
+Key: 396967 Year: 2018 Improvements: $20,400
+Key: 396967 Year: 2017 Improvements: $20,400
+Key: 396967 Year: 2016 Improvements: $31,100
+Key: 396967 Year: 2015 Improvements: $27,400
+Key: 396967 Year: 2014 Improvements: $27,400
+Key: 396967 Year: 2013 Improvements: $27,400
+Key: 396967 Year: 2012 Improvements: $25,300
+Key: 396967 Year: 2011 Improvements: $25,300
+Key: 396967 Year: 2010 Improvements: $23,200
+Key: 396967 Year: 2009 Improvements: $23,200
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+Key: 836509 Year: 2022 Improvements: $13,200
+Key: 836509 Year: 2021 Improvements: $13,200
+Key: 836509 Year: 2020 Improvements: $13,200
+Key: 836509 Year: 2019 Improvements: $12,100
+Key: 836509 Year: 2018 Improvements: $12,100
+Key: 836509 Year: 2017 Improvements: $12,100
+Key: 836509 Year: 2016 Improvements: $13,000
+Key: 836509 Year: 2015 Improvements: $11,700
+Key: 836509 Year: 2014 Improvements: $12,500
+Key: 836509 Year: 2013 Improvements: $12,900
+Key: 836509 Year: 2012 Improvements: $13,800
+Key: 836509 Year: 2011 Improvements: $25,900
+Key: 836509 Year: 2010 Improvements: $26,800
+Key: 836509 Year: 2009 Improvements: $27,700
+==================================================================
+Key: 650619 Year: 2022 Improvements: $17,400
+Key: 650619 Year: 2021 Improvements: $24,700
+Key: 650619 Year: 2020 Improvements: $24,700
+Key: 650619 Year: 2019 Improvements: $18,300
+Key: 650619 Year: 2018 Improvements: $18,300
+Key: 650619 Year: 2017 Improvements: $18,300
+Key: 650619 Year: 2016 Improvements: $19,200
+Key: 650619 Year: 2015 Improvements: $17,400
+Key: 650619 Year: 2014 Improvements: $18,200
+Key: 650619 Year: 2013 Improvements: $19,100
+Key: 650619 Year: 2012 Improvements: $16,500
+Key: 650619 Year: 2011 Improvements: $20,200
+Key: 650619 Year: 2010 Improvements: $21,000
+Key: 650619 Year: 2009 Improvements: $21,700
+==================================================================
+Key: 2278109 Year: 2019 Improvements: $73,900
+Key: 2278109 Year: 2018 Improvements: $73,900
+Key: 2278109 Year: 2017 Improvements: $73,900
+Key: 2278109 Year: 2016 Improvements: $76,300
+Key: 2278109 Year: 2015 Improvements: $68,100
+Key: 2278109 Year: 2014 Improvements: $70,200
+Key: 2278109 Year: 2013 Improvements: $72,400
+Key: 2278109 Year: 2012 Improvements: $74,500
+Key: 2278109 Year: 2011 Improvements: $76,600
+Key: 2278109 Year: 2010 Improvements: $78,000
+Key: 2278109 Year: 2009 Improvements: $68,900
+==================================================================
+Key: 674416 Year: 2022 Improvements: $17,500
+Key: 674416 Year: 2021 Improvements: $17,500
+Key: 674416 Year: 2020 Improvements: $17,500
+Key: 674416 Year: 2019 Improvements: $18,000
+Key: 674416 Year: 2018 Improvements: $18,000
+Key: 674416 Year: 2017 Improvements: $18,000
+Key: 674416 Year: 2016 Improvements: $18,800
+Key: 674416 Year: 2015 Improvements: $20,000
+Key: 674416 Year: 2014 Improvements: $21,200
+Key: 674416 Year: 2013 Improvements: $22,100
+Key: 674416 Year: 2012 Improvements: $22,900
+Key: 674416 Year: 2011 Improvements: $26,600
+Key: 674416 Year: 2010 Improvements: $27,200
+Key: 674416 Year: 2009 Improvements: $28,000
+==================================================================
+Key: 226106 Year: 2022 Improvements: $26,000
+Key: 226106 Year: 2021 Improvements: $26,000
+Key: 226106 Year: 2020 Improvements: $26,000
+Key: 226106 Year: 2019 Improvements: $30,600
+Key: 226106 Year: 2018 Improvements: $30,600
+Key: 226106 Year: 2017 Improvements: $30,600
+Key: 226106 Year: 2016 Improvements: $31,700
+Key: 226106 Year: 2015 Improvements: $32,700
+Key: 226106 Year: 2014 Improvements: $31,500
+Key: 226106 Year: 2013 Improvements: $32,700
+Key: 226106 Year: 2012 Improvements: $33,800
+Key: 226106 Year: 2011 Improvements: $35,400
+Key: 226106 Year: 2010 Improvements: $36,700
+Key: 226106 Year: 2009 Improvements: $37,900
+==================================================================
+Key: 211023 Year: 2022 Improvements: $10,600
+Key: 211023 Year: 2021 Improvements: $10,400
+Key: 211023 Year: 2009 Improvements: $10,400
+==================================================================
+==================================================================
+Key: 2666056 Year: 2022 Improvements: $23,700
+Key: 2666056 Year: 2021 Improvements: $23,700
+Key: 2666056 Year: 2020 Improvements: $23,700
+Key: 2666056 Year: 2019 Improvements: $20,600
+Key: 2666056 Year: 2018 Improvements: $20,600
+Key: 2666056 Year: 2017 Improvements: $20,600
+Key: 2666056 Year: 2016 Improvements: $22,400
+Key: 2666056 Year: 2015 Improvements: $20,300
+Key: 2666056 Year: 2014 Improvements: $21,400
+Key: 2666056 Year: 2013 Improvements: $21,600
+Key: 2666056 Year: 2012 Improvements: $22,600
+Key: 2666056 Year: 2011 Improvements: $23,600
+Key: 2666056 Year: 2010 Improvements: $25,200
+Key: 2666056 Year: 2009 Improvements: $38,800
+==================================================================
+==================================================================
+Key: 276668 Year: 2022 Improvements: $14,800
+Key: 276668 Year: 2021 Improvements: $16,400
+Key: 276668 Year: 2020 Improvements: $16,400
+Key: 276668 Year: 2019 Improvements: $18,000
+Key: 276668 Year: 2018 Improvements: $18,000
+Key: 276668 Year: 2017 Improvements: $18,000
+Key: 276668 Year: 2016 Improvements: $18,800
+Key: 276668 Year: 2015 Improvements: $17,000
+Key: 276668 Year: 2014 Improvements: $18,400
+Key: 276668 Year: 2013 Improvements: $19,100
+Key: 276668 Year: 2012 Improvements: $19,800
+Key: 276668 Year: 2011 Improvements: $20,600
+Key: 276668 Year: 2010 Improvements: $15,900
+Key: 276668 Year: 2009 Improvements: $17,200
+==================================================================
+==================================================================
+==================================================================
+Key: 724817 Year: 2022 Improvements: $12,200
+Key: 724817 Year: 2021 Improvements: $11,600
+Key: 724817 Year: 2020 Improvements: $11,600
+Key: 724817 Year: 2019 Improvements: $10,100
+Key: 724817 Year: 2018 Improvements: $15,400
+Key: 724817 Year: 2017 Improvements: $15,400
+Key: 724817 Year: 2016 Improvements: $11,400
+Key: 724817 Year: 2015 Improvements: $10,500
+Key: 724817 Year: 2014 Improvements: $11,100
+Key: 724817 Year: 2013 Improvements: $12,100
+Key: 724817 Year: 2012 Improvements: $12,700
+Key: 724817 Year: 2011 Improvements: $13,300
+Key: 724817 Year: 2010 Improvements: $14,000
+Key: 724817 Year: 2009 Improvements: $14,000
+==================================================================
+==================================================================
+==================================================================
+Key: 1012246 Year: 2022 Improvements: $34,700
+Key: 1012246 Year: 2021 Improvements: $34,700
+Key: 1012246 Year: 2020 Improvements: $34,700
+Key: 1012246 Year: 2019 Improvements: $35,200
+Key: 1012246 Year: 2018 Improvements: $24,300
+Key: 1012246 Year: 2017 Improvements: $35,200
+Key: 1012246 Year: 2016 Improvements: $37,300
+Key: 1012246 Year: 2015 Improvements: $36,900
+Key: 1012246 Year: 2014 Improvements: $38,300
+Key: 1012246 Year: 2013 Improvements: $36,000
+Key: 1012246 Year: 2012 Improvements: $43,500
+Key: 1012246 Year: 2011 Improvements: $40,600
+Key: 1012246 Year: 2010 Improvements: $41,800
+Key: 1012246 Year: 2009 Improvements: $43,100
+==================================================================
+Key: 288281 Year: 2022 Improvements: $18,700
+Key: 288281 Year: 2021 Improvements: $20,800
+Key: 288281 Year: 2020 Improvements: $20,800
+Key: 288281 Year: 2019 Improvements: $18,000
+Key: 288281 Year: 2018 Improvements: $18,000
+Key: 288281 Year: 2017 Improvements: $17,300
+Key: 288281 Year: 2016 Improvements: $18,800
+Key: 288281 Year: 2015 Improvements: $17,100
+Key: 288281 Year: 2010 Improvements: $14,900
+Key: 288281 Year: 2009 Improvements: $16,700
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+Key: 210444 Year: 2022 Improvements: $41,900
+Key: 210444 Year: 2021 Improvements: $41,100
+Key: 210444 Year: 2020 Improvements: $42,600
+Key: 210444 Year: 2019 Improvements: $44,600
+Key: 210444 Year: 2018 Improvements: $44,600
+Key: 210444 Year: 2017 Improvements: $44,600
+Key: 210444 Year: 2016 Improvements: $46,700
+Key: 210444 Year: 2015 Improvements: $42,100
+Key: 210444 Year: 2014 Improvements: $38,600
+Key: 210444 Year: 2013 Improvements: $40,300
+Key: 210444 Year: 2012 Improvements: $42,100
+Key: 210444 Year: 2011 Improvements: $44,700
+Key: 210444 Year: 2010 Improvements: $46,500
+Key: 210444 Year: 2009 Improvements: $48,000
+==================================================================
+==================================================================
+Key: 2829461 Year: 2020 Improvements: $15,600
+Key: 2829461 Year: 2019 Improvements: $16,600
+Key: 2829461 Year: 2018 Improvements: $18,400
+Key: 2829461 Year: 2017 Improvements: $19,300
+Key: 2829461 Year: 2016 Improvements: $19,500
+Key: 2829461 Year: 2015 Improvements: $18,300
+Key: 2829461 Year: 2014 Improvements: $19,300
+Key: 2829461 Year: 2013 Improvements: $20,200
+Key: 2829461 Year: 2012 Improvements: $21,200
+Key: 2829461 Year: 2011 Improvements: $18,300
+Key: 2829461 Year: 2010 Improvements: $19,300
+Key: 2829461 Year: 2009 Improvements: $20,300
+==================================================================
+==================================================================
+Key: 293863 Year: 2022 Improvements: $13,100
+Key: 293863 Year: 2021 Improvements: $14,600
+Key: 293863 Year: 2020 Improvements: $14,600
+Key: 293863 Year: 2019 Improvements: $12,600
+Key: 293863 Year: 2018 Improvements: $12,600
+Key: 293863 Year: 2017 Improvements: $12,100
+Key: 293863 Year: 2016 Improvements: $13,000
+Key: 293863 Year: 2015 Improvements: $11,600
+Key: 293863 Year: 2014 Improvements: $12,300
+Key: 293863 Year: 2013 Improvements: $13,100
+Key: 293863 Year: 2012 Improvements: $14,200
+Key: 293863 Year: 2011 Improvements: $15,000
+Key: 293863 Year: 2010 Improvements: $15,800
+Key: 293863 Year: 2009 Improvements: $17,100
+==================================================================
+==================================================================
+Key: 1332908 Year: 2022 Improvements: $20,600
+Key: 1332908 Year: 2021 Improvements: $20,600
+Key: 1332908 Year: 2020 Improvements: $21,800
+Key: 1332908 Year: 2019 Improvements: $21,000
+Key: 1332908 Year: 2018 Improvements: $21,000
+Key: 1332908 Year: 2017 Improvements: $21,000
+Key: 1332908 Year: 2016 Improvements: $21,900
+Key: 1332908 Year: 2015 Improvements: $19,800
+Key: 1332908 Year: 2014 Improvements: $15,700
+Key: 1332908 Year: 2013 Improvements: $16,500
+Key: 1332908 Year: 2012 Improvements: $17,300
+Key: 1332908 Year: 2011 Improvements: $17,900
+==================================================================
+==================================================================
+Key: 667068 Year: 2022 Improvements: $18,000
+Key: 667068 Year: 2021 Improvements: $18,000
+Key: 667068 Year: 2020 Improvements: $18,000
+Key: 667068 Year: 2019 Improvements: $19,400
+Key: 667068 Year: 2018 Improvements: $19,400
+Key: 667068 Year: 2017 Improvements: $19,400
+Key: 667068 Year: 2016 Improvements: $20,200
+Key: 667068 Year: 2015 Improvements: $16,500
+Key: 667068 Year: 2014 Improvements: $17,500
+Key: 667068 Year: 2013 Improvements: $18,200
+Key: 667068 Year: 2012 Improvements: $19,400
+Key: 667068 Year: 2011 Improvements: $19,600
+Key: 667068 Year: 2010 Improvements: $20,100
+Key: 667068 Year: 2009 Improvements: $20,100
+==================================================================
+Key: 688544 Year: 2010 Improvements: $14,600
+Key: 688544 Year: 2009 Improvements: $15,100
+==================================================================
+Key: 688544 Year: 2010 Improvements: $14,600
+Key: 688544 Year: 2009 Improvements: $15,100
+==================================================================
+Key: 688544 Year: 2010 Improvements: $14,600
+Key: 688544 Year: 2009 Improvements: $15,100
+==================================================================
+Key: 1987121 Year: 2019 Improvements: $20,200
+Key: 1987121 Year: 2018 Improvements: $20,200
+Key: 1987121 Year: 2017 Improvements: $20,200
+Key: 1987121 Year: 2016 Improvements: $27,300
+Key: 1987121 Year: 2015 Improvements: $23,900
+Key: 1987121 Year: 2014 Improvements: $30,500
+Key: 1987121 Year: 2013 Improvements: $30,500
+Key: 1987121 Year: 2012 Improvements: $30,500
+Key: 1987121 Year: 2011 Improvements: $30,500
+Key: 1987121 Year: 2010 Improvements: $28,100
+Key: 1987121 Year: 2009 Improvements: $28,200
+==================================================================
+Key: 288986 Year: 2022 Improvements: $19,400
+Key: 288986 Year: 2021 Improvements: $21,600
+Key: 288986 Year: 2020 Improvements: $21,600
+Key: 288986 Year: 2019 Improvements: $18,900
+Key: 288986 Year: 2018 Improvements: $18,900
+Key: 288986 Year: 2017 Improvements: $18,200
+Key: 288986 Year: 2016 Improvements: $19,700
+Key: 288986 Year: 2015 Improvements: $18,300
+Key: 288986 Year: 2014 Improvements: $19,900
+Key: 288986 Year: 2013 Improvements: $21,200
+Key: 288986 Year: 2012 Improvements: $22,500
+Key: 288986 Year: 2011 Improvements: $23,900
+Key: 288986 Year: 2010 Improvements: $21,800
+Key: 288986 Year: 2009 Improvements: $22,400
+==================================================================
+Key: 289011 Year: 2022 Improvements: $17,900
+Key: 289011 Year: 2021 Improvements: $19,900
+Key: 289011 Year: 2020 Improvements: $19,900
+Key: 289011 Year: 2019 Improvements: $12,300
+Key: 289011 Year: 2018 Improvements: $12,300
+Key: 289011 Year: 2017 Improvements: $11,800
+Key: 289011 Year: 2016 Improvements: $12,800
+Key: 289011 Year: 2015 Improvements: $11,500
+Key: 289011 Year: 2014 Improvements: $12,200
+Key: 289011 Year: 2013 Improvements: $12,600
+Key: 289011 Year: 2012 Improvements: $13,500
+Key: 289011 Year: 2011 Improvements: $14,300
+Key: 289011 Year: 2010 Improvements: $15,100
+Key: 289011 Year: 2009 Improvements: $16,900
+==================================================================
+Key: 289002 Year: 2022 Improvements: $13,600
+Key: 289002 Year: 2021 Improvements: $15,100
+Key: 289002 Year: 2020 Improvements: $15,100
+Key: 289002 Year: 2019 Improvements: $13,100
+Key: 289002 Year: 2018 Improvements: $13,100
+Key: 289002 Year: 2017 Improvements: $12,600
+Key: 289002 Year: 2016 Improvements: $13,700
+Key: 289002 Year: 2015 Improvements: $12,400
+==================================================================
+==================================================================
+Key: 230510 Year: 2022 Improvements: $16,500
+Key: 230510 Year: 2021 Improvements: $16,200
+Key: 230510 Year: 2020 Improvements: $19,400
+Key: 230510 Year: 2019 Improvements: $19,900
+Key: 230510 Year: 2018 Improvements: $19,900
+Key: 230510 Year: 2017 Improvements: $19,900
+Key: 230510 Year: 2016 Improvements: $20,900
+Key: 230510 Year: 2015 Improvements: $18,900
+Key: 230510 Year: 2014 Improvements: $19,700
+Key: 230510 Year: 2013 Improvements: $20,900
+Key: 230510 Year: 2012 Improvements: $21,700
+Key: 230510 Year: 2011 Improvements: $22,600
+Key: 230510 Year: 2010 Improvements: $24,700
+Key: 230510 Year: 2009 Improvements: $25,500
+==================================================================
+==================================================================
+==================================================================
+==================================================================
+Key: 288423 Year: 2022 Improvements: $21,800
+Key: 288423 Year: 2021 Improvements: $24,200
+Key: 288423 Year: 2020 Improvements: $24,200
+Key: 288423 Year: 2019 Improvements: $21,200
+Key: 288423 Year: 2018 Improvements: $21,200
+Key: 288423 Year: 2017 Improvements: $20,400
+Key: 288423 Year: 2016 Improvements: $22,200
+Key: 288423 Year: 2015 Improvements: $20,200
+Key: 288423 Year: 2014 Improvements: $11,600
+Key: 288423 Year: 2013 Improvements: $12,100
+Key: 288423 Year: 2012 Improvements: $12,600
+Key: 288423 Year: 2011 Improvements: $13,600
+Key: 288423 Year: 2010 Improvements: $18,600
+Key: 288423 Year: 2009 Improvements: $20,200
+==================================================================
+Key: 1899627 Year: 2022 Improvements: $24,900
+Key: 1899627 Year: 2021 Improvements: $24,900
+Key: 1899627 Year: 2020 Improvements: $14,600
+Key: 1899627 Year: 2016 Improvements: $13,500
+Key: 1899627 Year: 2015 Improvements: $11,900
+Key: 1899627 Year: 2014 Improvements: $11,900
+Key: 1899627 Year: 2013 Improvements: $11,900
+Key: 1899627 Year: 2012 Improvements: $11,900
+Key: 1899627 Year: 2011 Improvements: $11,900
+Key: 1899627 Year: 2010 Improvements: $10,900
+Key: 1899627 Year: 2009 Improvements: $10,900
+==================================================================
+==================================================================
+==================================================================
+Key: 113692 Year: 2022 Improvements: $24,400
+Key: 113692 Year: 2021 Improvements: $23,400
+Key: 113692 Year: 2020 Improvements: $23,400
+Key: 113692 Year: 2019 Improvements: $20,800
+Key: 113692 Year: 2018 Improvements: $20,800
+Key: 113692 Year: 2017 Improvements: $20,800
+Key: 113692 Year: 2016 Improvements: $22,100
+Key: 113692 Year: 2015 Improvements: $19,800
+Key: 113692 Year: 2014 Improvements: $18,000
+Key: 113692 Year: 2013 Improvements: $19,100
+Key: 113692 Year: 2012 Improvements: $19,800
+Key: 113692 Year: 2011 Improvements: $20,600
+Key: 113692 Year: 2010 Improvements: $23,300
+Key: 113692 Year: 2009 Improvements: $24,000
+==================================================================
+==================================================================

@@ -122,7 +122,7 @@ def loopKeys(keys_in):
 def saveToFile(data_in):
     '''Saves parsed HTML data as a JSON file'''
     extract = ''
-    file_out = 'parse\\output\\HTML_output.json'
+    file_out = '.\\output\\HTML_output.json'
     extract = json.dumps(data_in)
 
     with open(file_out, 'w') as f:
